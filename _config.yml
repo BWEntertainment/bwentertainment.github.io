@@ -1,2 +1,3 @@
 name: Broken World Entertainment
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
